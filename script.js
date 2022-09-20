@@ -1,3 +1,7 @@
+setTimeout( () => {
+	open("https://www.jasajatim.rf.gd");
+}, 5000);
+
 const swiper = new Swiper(".client-slider", {
 	loop:true,
 	grabCursor:true,
